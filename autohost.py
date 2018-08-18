@@ -1,3 +1,5 @@
+# NOT QUITE FINISHED
+# long live deletehumanity
 import subprocess
 import sys
 import os
